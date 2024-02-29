@@ -1,3 +1,4 @@
+//Suma de Vectores: Escribe un programa que sume dos vectores de igual longitud y muestre el resultado.
 public class Ejercicio3 {
     public static void main(String[] args) {
         int vector1[] = { 5, 7, 9, 3 };

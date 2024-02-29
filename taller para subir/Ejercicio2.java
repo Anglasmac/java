@@ -1,4 +1,4 @@
-//Hacerun programa que pida ingresar 5 numeros por teclado y almacenarlo en un vector con su valor elevado 
+//Hacer un programa que pida ingresar 5 numeros por teclado y almacenarlo en un vector con su valor elevado 
 //al cuadrado 
 
 import java.util.Scanner;
